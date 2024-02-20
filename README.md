@@ -2,15 +2,26 @@
 
 A new Flutter project.
 
-## Getting Started
+##  It contains all: browsing, searching, product information, easy ordering, checkout order tracking, updating wish lists, and saved items for products. 
+## Sign In and Sign up from google .
 
-This project is a starting point for a Flutter application.
+In UI:-
 
-A few resources to get you started if this is your first Flutter project:
+- Dynamic colors and themes
+- Complex UI made simple
+- Custom widgets
+- Flutter Material Design
+- ListViews and multiple UI states
+- Flutter Row and Column
+- Flutter ListView Builder
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+State Management:-
+- Provider
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+From Firebase :-
+- Databases and Cloud Firestore
+- Firebase Authentication
+- Firebase Firestore
+- Firebase Storage
+
+Real-time communication with Firestore using Streams and StreamBuilder, Futures and FutureBuilder
